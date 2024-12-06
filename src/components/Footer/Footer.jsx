@@ -17,8 +17,7 @@ const Footer = () => {
               Bakso Prasmanan Pak Ndut
             </h1>
             <p className="">
-              Lorem ipsum dolor sit amet consectetur. Lorem ipsum dolor sit amet
-              consectetur adipisicing elit. Possimus, voluptate.{" "}
+              Hadir dengan konsep prasmanan, nikmati bakso dengan berbagai pilihan topping dan kuah sesuai selera. Cocok untuk dinikmati kapan saja.{" "}
             </p>
             <br />
             <div className="flex items-center gap-3">
