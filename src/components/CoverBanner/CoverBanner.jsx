@@ -1,4 +1,4 @@
-import bgCoverImg from "../../assets/biryani_cover.jpg";
+import bgCoverImg from "../../assets/bakso.png";
 
 const CoverBanner = () => {
   const bgImage = {
